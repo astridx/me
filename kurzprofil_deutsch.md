@@ -1,0 +1,1 @@
+Seit 2017 programmiert Astrid Günther individuelle Websites und schreibe Bücher für Menschen, denen ihr Auftritt im Web wichtig ist. Am liebsten mit Joomla! und sehr gerne in Kombination mit geografischen Daten. Dabei schaut Sie immer gerne über den Tellerrand hin zu anderen Open-Source Projekten.
